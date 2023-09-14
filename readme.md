@@ -16,7 +16,7 @@ Sou um engenheiro de software com uma paixão por análise de dados. Especializa
 - **[Visualizador de Fotos 360 para DJI e Fotos de Drones](https://github.com/aloproducao/360-photo-for-dji-and-drone-photos)**: O Visualizador de Fotos 360 para Drones DJI é uma aplicação web criada originalmente para visualizar imagens em 360 graus capturadas por drones DJI. Esta aplicação permite aos usuários fazer upload de suas próprias imagens panorâmicas e interagir com elas em um ambiente 3D imersivo.
 
 ## Contato
-- **LinkedIn:** [[Adicione seu link aqui]](https://www.linkedin.com/in/miguel-kallemback-5b42178b/)
+- **LinkedIn:** [[Link](https://www.linkedin.com/in/miguel-kallemback-5b42178b/)
 - **E-mail:** [miguelkallemback.seven@gmail.com]
 
 Fique à vontade para explorar meus repositórios e não hesite em entrar em contato para colaborações ou qualquer outra informação. Estou sempre aberto a novas oportunidades e desafios.
